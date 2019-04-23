@@ -6,7 +6,7 @@
 Create a script that can pull current listings from AirBnB and VRBO to a spreadsheet with Geo coordinates
 
 ### Purpose 
-Permit Business Analysts would like to know more about locations and number of sort term rental units in the town.
+Business Analysts would like to know more about locations of short term rental units in the town.
 Internal use only - experimental and not for redistribution
 
 ### Methodology 
@@ -24,3 +24,5 @@ Aggregated CSV file
 TBD
 ### Constraints
 needs refactoring if we intend to have a scheduled refresh and reliable results
+manual cleanup of data required before upload
+data quality is low
